@@ -1,0 +1,43 @@
+const timeZoneList = {
+  "Asia/Kolkata": "IN",
+  "Asia/Tokyo": "JP",
+  "Asia/Shanghai": "CN",
+  "Asia/Seoul": "KR",
+  "Asia/Dubai": "AE",
+  "Asia/Singapore": "SG",
+  "Asia/Bangkok": "TH",
+  "Asia/Jakarta": "ID",
+  "Asia/Karachi": "PK",
+  "Asia/Dhaka": "BD",
+  "Asia/Kathmandu": "NP",
+  "Asia/Colombo": "LK",
+
+  "Europe/London": "GB",
+  "Europe/Paris": "FR",
+  "Europe/Berlin": "DE",
+  "Europe/Rome": "IT",
+  "Europe/Madrid": "ES",
+  "Europe/Amsterdam": "NL",
+  "Europe/Athens": "GR",
+  "Europe/Moscow": "RU",
+  "Europe/Istanbul": "TR",
+
+  "America/New_York": "US",
+  "America/Chicago": "US",
+  "America/Denver": "US",
+  "America/Los_Angeles": "US",
+  "America/Toronto": "CA",
+  "America/Vancouver": "CA",
+  "America/Sao_Paulo": "BR",
+  "America/Mexico_City": "MX",
+  "America/Argentina/Buenos_Aires": "AR",
+
+  "Australia/Sydney": "AU",
+  "Australia/Perth": "AU",
+  "Pacific/Auckland": "NZ",
+
+  "Africa/Johannesburg": "ZA",
+  "Africa/Cairo": "EG",
+  "Africa/Lagos": "NG",
+  "Africa/Nairobi": "KE"
+};
